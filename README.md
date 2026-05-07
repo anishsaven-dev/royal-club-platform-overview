@@ -1,6 +1,8 @@
 # Royal Club Platform Overview
 Royal Club is a mobile-focused gaming platform designed for users in India who enjoy fast-paced and interactive digital games. This overview provides insights into the Royal Club app, available games, and how users can access the platform.
 
+[![Royal Club Banner](royal-club-image.png)](https://royalclubofficial.in)
+
 ## What is Royal Club?
 Royal Club is known for offering a wide range of engaging online games that cater to both new and experienced players. With a focus on smooth gameplay and accessibility, the platform delivers an enjoyable experience across mobile devices.
 
